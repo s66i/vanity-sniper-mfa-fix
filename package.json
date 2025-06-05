@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "extract-json-string": "^1.0.1",
+    "ws": "^8.18.2"
+  }
+}
