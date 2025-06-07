@@ -1,2 +1,2 @@
-reaw gibi it orospu çocuklarına prim yok.
+nonamelere prim yok.
 kuramayan dc: s93i
